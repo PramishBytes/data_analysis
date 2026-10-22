@@ -1,0 +1,10 @@
+Hypothesis,Test,p-value,Result,Conclusion
+H1: Parental education significantly affects career preference,Pearson Correlation,4.12119042450513e-12,Rejected,Significant relationship
+H2: Family income significantly affects career preference,Pearson Correlation,4.605341581583455e-14,Rejected,Significant relationship
+H3: Peer influence significantly affects career preference,Pearson Correlation,7.6938811066830445e-19,Rejected,Significant relationship
+H4: Job market awareness significantly affects career preference,Pearson Correlation,3.13036877120091e-18,Rejected,Significant relationship
+H5: Personality type significantly affects career preference,Pearson Correlation,1.292510360851701e-25,Rejected,Significant relationship
+H6: Multiple factors predict career preference (Regression Model),Multiple Linear Regression,2.1938913528225095e-27,Rejected,Model is significant
+H7: There is a significant association between gender and career interest,Chi-Square Test,0.8950391637069904,Not Rejected,No association
+H8: There is a significant association between income category and career interest,Chi-Square Test,0.0024530433907901826,Rejected,Association exists
+H9: There is a significant association between age and career interest,Chi-Square Test,0.18386594490946645,Not Rejected,No association

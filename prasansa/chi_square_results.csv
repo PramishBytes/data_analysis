@@ -1,0 +1,29 @@
+Variable 1,Variable 2,Chi-Square,df,p-value,Significant,Cramer's V,Effect Size
+"Independent Variables
+1. Parental Education [My parents enco...",Which careeer are you most interested in after graduation?,94.726,20,0.0,Yes,0.382,Large
+3. Peer Influence [I discuss career plans with my friends.],Which careeer are you most interested in after graduation?,68.858,20,0.0,Yes,0.326,Large
+4. Job Market Awareness [I regularly follow information abou...,Which careeer are you most interested in after graduation?,104.435,20,0.0,Yes,0.401,Large
+5. Personality Type [I prefer a career that matches my perso...,Which careeer are you most interested in after graduation?,96.28,20,0.0,Yes,0.385,Large
+Dependent Variable: Career preferencee pattern [I have a cle...,Which careeer are you most interested in after graduation?,195.38,20,0.0,Yes,0.549,Large
+Dependent Variable: Career preferencee pattern [I am confide...,Which careeer are you most interested in after graduation?,114.322,20,0.0,Yes,0.42,Large
+Family Monthly income,Which careeer are you most interested in after graduation?,35.007,15,0.0025,Yes,0.268,Medium
+Marital Status,Have you attended any career counseling or career guidance program?,8.958,1,0.0028,Yes,0.235,Medium
+Employment Status,Have you attended any career counseling or career guidance program?,14.4,4,0.0061,Yes,0.298,Medium
+Marital Status,Have you decided on your future career?,6.371,1,0.0116,Yes,0.198,Medium
+Employment Status,Which careeer are you most interested in after graduation?,36.407,20,0.0138,Yes,0.237,Medium
+Educational Level,Have you attended any career counseling or career guidance program?,4.999,1,0.0254,Yes,0.176,Medium
+Gender,Have you decided on your future career?,7.028,2,0.0298,Yes,0.208,Medium
+Age,Have you attended any career counseling or career guidance program?,6.321,2,0.0424,Yes,0.198,Medium
+Age,Have you decided on your future career?,5.755,2,0.0563,No,0.188,Medium
+Educational Level,Have you decided on your future career?,3.42,1,0.0644,No,0.145,Medium
+Year of study,Have you decided on your future career?,6.734,3,0.0809,No,0.204,Medium
+Year of study,Have you attended any career counseling or career guidance program?,6.256,3,0.0998,No,0.197,Medium
+Educational Level,Which careeer are you most interested in after graduation?,7.762,5,0.1698,No,0.219,Medium
+Age,Which careeer are you most interested in after graduation?,13.767,10,0.1839,No,0.206,Medium
+Marital Status,Which careeer are you most interested in after graduation?,5.735,5,0.3328,No,0.188,Medium
+Family Monthly income,Have you attended any career counseling or career guidance program?,3.33,3,0.3435,No,0.143,Medium
+Employment Status,Have you decided on your future career?,3.881,4,0.4223,No,0.155,Medium
+Year of study,Which careeer are you most interested in after graduation?,13.914,15,0.5321,No,0.169,Medium
+Gender,Have you attended any career counseling or career guidance program?,0.378,2,0.8277,No,0.048,Small
+Gender,Which careeer are you most interested in after graduation?,4.942,10,0.895,No,0.123,Medium
+Family Monthly income,Have you decided on your future career?,0.48,3,0.9233,No,0.054,Small

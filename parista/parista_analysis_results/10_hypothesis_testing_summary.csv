@@ -1,0 +1,7 @@
+Hypothesis,Test,Result,p-value,Conclusion
+H1: Frequency of use significantly affects attention span,Pearson Correlation,Not Rejected,0.24496713748431337,No significant correlation
+H2: Duration of use significantly affects attention span,Pearson Correlation,Not Rejected,0.37008060245282537,No significant correlation
+H3: Viewing habits significantly affect attention span,Pearson Correlation,Not Rejected,0.725899422026221,No significant correlation
+H4: Usage category significantly affects attention span,One-Way ANOVA,Not Rejected,0.5366673285570078,No differences
+H5: Usage significantly affects duration of use,One-Way ANOVA,Rejected,1.960532580043628e-05,Usage affects duration
+H6: All factors together predict attention span,Multiple Regression,Rejected,0.003651466993209111,Model is significant

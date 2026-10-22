@@ -1,0 +1,4 @@
+Test,Chi-Square,df,p-value,Cramer's V,Significant
+Gender vs Career Interest,4.9417,10,0.895,0.1235,No
+Gender vs Future Career Decided,7.0276,2,0.0298,0.2083,Yes
+Internship vs Career Counseling,7.5641,1,0.006,0.2161,Yes

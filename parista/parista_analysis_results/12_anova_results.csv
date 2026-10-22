@@ -1,0 +1,5 @@
+Variable,F_statistic,p_value,Significant,Groups
+Avg_Use,8.832202430170094,1.960532580043628e-05,Yes,"Medium, Very High, High, Low"
+Avg_Duration,10.85292738134304,1.677851636661499e-06,Yes,"Medium, Very High, High, Low"
+Avg_Habits,8.302995833026733,3.773212962593132e-05,Yes,"Medium, Very High, High, Low"
+Avg_Attention,0.7281874870577342,0.5366673285570078,No,"Medium, Very High, High, Low"

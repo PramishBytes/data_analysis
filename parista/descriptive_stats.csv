@@ -1,0 +1,21 @@
+No,Variable,Factor,N,Mean,Median,Mode,Std Dev,Min,Max,Skewness,Kurtosis,SA %,A %,N %,D %,SD %
+1,Use every day,Frequency of Use (Part I),156,3.769,4.0,4,1.212,1,5,-0.846,-0.193,33.3,34.0,16.0,9.6,7.1
+2,Open many times a day,Frequency of Use (Part I),156,3.571,4.0,4,1.181,1,5,-0.659,-0.443,22.4,39.7,17.3,13.5,7.1
+3,Use whenever free,Frequency of Use (Part I),156,3.756,4.0,4,1.215,1,5,-0.855,-0.142,32.7,34.0,17.3,8.3,7.7
+4,Part of daily routine,Frequency of Use (Part I),156,3.628,4.0,4,1.171,1,5,-0.705,-0.269,25.0,37.2,20.5,10.3,7.1
+5,Use more than other platforms,Frequency of Use (Part I),156,3.673,4.0,4,1.261,1,5,-0.75,-0.429,31.4,32.1,17.9,9.6,9.0
+6,Spend >1 hour daily,Duration of Use (Part II),156,3.609,4.0,4,1.232,1,5,-0.643,-0.564,27.6,34.0,17.9,12.8,7.7
+7,Continue longer than planned,Duration of Use (Part II),156,3.622,4.0,4,1.193,1,5,-0.662,-0.419,26.3,35.3,19.9,11.5,7.1
+8,Spend large amount of free time,Duration of Use (Part II),156,3.609,4.0,4,1.211,1,5,-0.668,-0.45,26.3,35.3,19.2,11.5,7.7
+9,Lose track of time,Duration of Use (Part II),156,3.654,4.0,5,1.253,1,5,-0.594,-0.693,32.7,26.9,20.5,12.8,7.1
+10,Spend more time than intended,Duration of Use (Part II),156,3.712,4.0,4,1.244,1,5,-0.819,-0.314,31.4,35.3,14.7,10.3,8.3
+11,Watch immediately after waking,Viewing Habits (Part III),156,3.186,3.0,2,1.338,1,5,-0.051,-1.254,22.4,21.8,18.6,26.3,10.9
+12,Watch before sleep,Viewing Habits (Part III),156,3.526,4.0,4,1.221,1,5,-0.599,-0.587,23.1,36.5,18.6,13.5,8.3
+13,Check whenever free,Viewing Habits (Part III),156,3.59,4.0,4,1.228,1,5,-0.718,-0.412,25.0,37.8,17.3,10.9,9.0
+14,Watch during study breaks,Viewing Habits (Part III),156,3.436,4.0,4,1.208,1,5,-0.514,-0.623,19.9,35.3,22.4,13.5,9.0
+15,Continue watching one after another,Viewing Habits (Part III),156,3.615,4.0,4,1.247,1,5,-0.732,-0.392,27.6,34.6,19.2,9.0,9.6
+16,Can concentrate on studies,Attention Span (Dependent Variable),156,3.269,3.0,4,1.312,1,5,-0.285,-1.067,20.5,28.8,19.9,18.6,12.2
+17,Difficult to stay focused in lectures,Attention Span (Dependent Variable),156,3.276,3.0,4,1.211,1,5,-0.302,-0.82,16.7,30.8,25.6,17.3,9.6
+18,Can complete tasks without losing concentration,Attention Span (Dependent Variable),156,3.282,3.0,4,1.284,1,5,-0.32,-0.933,19.9,28.2,24.4,15.4,12.2
+19,Easily distracted while studying,Attention Span (Dependent Variable),156,3.378,4.0,4,1.23,1,5,-0.399,-0.753,20.5,30.1,25.6,14.1,9.6
+20,Can pay attention for long period,Attention Span (Dependent Variable),156,3.353,4.0,4,1.304,1,5,-0.361,-0.961,23.1,27.6,22.4,15.4,11.5

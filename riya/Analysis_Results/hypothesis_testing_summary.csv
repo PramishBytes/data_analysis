@@ -1,0 +1,8 @@
+Hypothesis,Test,p-value,Result,Conclusion
+H1: Service quality significantly affects customer satisfaction,Pearson Correlation,5.208345523234082e-10,Rejected,Significant relationship
+H2: Pricing significantly affects customer satisfaction,Pearson Correlation,2.4312736066274228e-11,Rejected,Significant relationship
+H3: Assurance significantly affects customer satisfaction,Pearson Correlation,2.6384921176436195e-10,Rejected,Significant relationship
+H4: Multiple factors predict customer satisfaction (Regression Model),Multiple Linear Regression,1.962353876690797e-12,Rejected,Model is significant
+H5: There is a significant association between gender and mobile operator choice,Chi-Square Test,0.9796825554455101,Not Rejected,No association
+H6: There is a significant association between income category and mobile operator choice,Chi-Square Test,0.38134691368145934,Not Rejected,No association
+H7: There is a significant association between age category and mobile operator choice,Chi-Square Test,0.3159902218285973,Not Rejected,No association
